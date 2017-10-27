@@ -1,0 +1,2 @@
+# Euphoria
+android Oreo ROM 
